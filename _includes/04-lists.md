@@ -6,4 +6,4 @@
    3. Three
   
 * The
-  * end
+  ** end
